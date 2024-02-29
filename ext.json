@@ -1,0 +1,21 @@
+{
+  "name": "Nord (latest)",
+  "identifier": "krst.nord.theme",
+  "version": "0.1",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "main": "dist/dist.css",
+  "showInGallery": true,
+  "description": "An arctic, north-bluish color palette, based on Nord.",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#8FBCBB",
+    "foreground_color": "#8FBCBB",
+    "border_color": "#4C566A"
+  },
+  "url": "https://apps.laux.wtf/sn-nord-theme/dist/dist.css",
+  "download_url": "https://apps.laux.wtf/sn-nord-theme/sn-nord-theme.zip",
+  "marketing_url": "https://github.com/marcolaux/sn-nord-theme",
+  "latest_url": "https://apps.laux.wtf/sn-nord-theme/ext.json",
+  "thumbnail": "https://apps.laux.wtf/sn-nord-theme/screenshot.png"
+}
