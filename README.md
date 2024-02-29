@@ -6,4 +6,4 @@ If you always want to use the latest version (I sometimes tend to adjust a few l
 
 https://apps.laux.wtf/sn-nord-theme/ext.json
 
-![Screenshot Standard Notes Theme Nord](https://raw.githubusercontent.com/marcolaux/sn-nord-theme/main/screenshot.jpg "Screenshot Standard Notes Theme Nord")
+![Screenshot Standard Notes Theme Nord](https://github.com/marcolaux/sn-nord-theme/blob/main/screenshot.jpg?raw=true "Screenshot Standard Notes Theme Nord")
