@@ -2,7 +2,7 @@
   "sn": {
     "name": "Nord (latest)",
     "identifier": "krst.nord.theme",
-    "version": "0.1",
+    "version": "0.2",
     "content_type": "SN|Theme",
     "area": "themes",
     "main": "dist/dist.css",
